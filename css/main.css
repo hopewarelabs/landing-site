@@ -2183,3 +2183,12 @@ textarea.form-control-line {
 .tagline p {
   font-weight: 200;
 }
+
+.modal {
+  color: #161619 !important;
+}
+
+.btn-hopeware {
+  background-color: #161619 !important;
+  border: #161619 !important;
+}
