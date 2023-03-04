@@ -1390,10 +1390,13 @@ p, ul {
   .hero-a .hero-label {
     margin-bottom: 0; }
   .hero-a .hero-title {
-    font-size: 5rem; }
+    font-size: 3rem; }
+    @media screen and (min-width: 500px) {
+      .hero-a .hero-title {
+        font-size: 4rem; } }
     @media screen and (min-width: 768px) {
       .hero-a .hero-title {
-        font-size: 6rem; } }
+        font-size: 5rem; } }
     @media screen and (min-width: 992px) {
       .hero-a .hero-title {
         font-size: 8rem; } }
